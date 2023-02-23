@@ -45,11 +45,11 @@ body{
 }
 
 .output .previous-operand {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.95);
   font-size: 1.5rem;
 }
 
 .output .current-operand {
-  color: rgba(255, 255, 255, 0.75);
+  color: rgba(255, 255, 255, 0.95);
   font-size: 2.5rem;
 }
