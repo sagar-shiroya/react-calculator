@@ -14,5 +14,4 @@ Below concepts has been used while building this app:
 - State Management
 
 ## Demo:
-
-![chrome-capture-2023-1-23 (1) (1)](https://user-images.githubusercontent.com/14357087/220900829-1c721009-e685-4db1-b9a9-f3cd5d7ee180.gif)
+![image](https://user-images.githubusercontent.com/14357087/222885563-2f5924e9-c33b-4c93-9f4c-af88ef212f3c.png)
